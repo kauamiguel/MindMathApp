@@ -1,0 +1,152 @@
+/*
+  Localizable.strings
+  aplicativoMacroChallenged
+
+  Created by Kaua Miguel on 24/05/23.
+  
+*/
+
+"Remember that the sum of all interior angles is 180 degrees.\n\nIf in doubt, go back to the theory page." =
+"Lembre-se que a soma de todos os ângulos internos é 180 graus.\n\nEm caso de dúvida, volte para a página de teoria.";
+
+"The value you found of 7.2° was the same as Erastothenes arrived at, and with that he could prove that the earth had a radius of approximately 40,000 KM, but that is a subject for the next module..." = "O valor que você  achou de 7,2° foi o mesmo que Erastótenes chegou, e com isso ele pode provar que a terra tinha um raio de aproximadamente 40.000 KM, mas isso é assunto para o próximo módulo...";
+
+
+"Assuming that the blue-painted angles of the triangle above both measure 86.4 degrees, what is the value of the green angle?" = "Supondo que os ângulos pintados de azul do triângulo acima tem ambos medida de 86.4 graus, qual o valor do ângulo de verde?";
+
+
+"Why 180 degrees?" = "Por que 180 graus?";
+
+"Angles in Triangle" = "Ângulos no triangulo";
+
+
+"Let's take this pretty triangle as a base." = "Vamos pegar esse bonito triângulo como base.";
+
+
+"Regardless of the way, we can divide the triangle into 3 parts, as long as the angles remain intact..." = "Independente da maneira, podemos partir o triângulo em 3 partes , contando que os ângulos fiquem intactos...";
+
+"If we add the angles side by side, we can see that they form half of a circle, which is 180 degrees." = "Se juntarmos os ângulos uns do lado dos outros, podemos perceber que eles formam metade de uma circunferência,  que é 180 graus.";
+
+"A fellow named Eratosthenes of ancient Greece noticed that when the light was exactly on top of a wooden stake, it cast no shadow..." = "Um camarada chamado Eratóstenes da Grécia antiga percebeu que quando a luz estava exatamente em cima de uma estaca de madeira, ele não produzia sombra...";
+
+"With the most advanced locomotion tools of the time (On foot), Erastóthenes went to check if the same phenomenon happened at the same time in another city, and he realized that the stakes were in shadow, which implies the curvature of the earth. 🤯 \n\nLet's see that, just using knowledge about angles in a triangle, a sage from 250 BC was able to reach extremely profound conclusions, and without the use of google." = "Com as ferramentas de locomoção mais avançadas da época (A pé), Erastótenes foi verificar se no mesmo horário em outra cidade acontecia o mesmo fenômeno, e ele percebeu que as estacas ficavam com sombra, o que implica a curvatura da terra.  🤯 \n\nVejamos que, apenas usando conhecimento sobre ângulos em um triângulo, um sábio de 250 A.C conseguiu chegar a conclusões extremamente profundas, e sem o uso do google.";
+
+"Back" = "Voltar";
+
+"Continue" = "Continuar";
+
+"Exercise" = "Exercício";
+
+"What's aplication?" = "Qual a aplicação?";
+
+"Got it !" = "Captei !";
+
+" Back to menu" = " Voltar para o menu";
+
+"Tips\n" = "Dicas\n";
+
+"CONGRATULATIONS!" = "PARABÉNS!";
+
+"You understood the principles." = "Você entendeu os princípios.";
+
+"Close" = "Fechar";
+
+"Remember that the knight moves in an L, and therefore moves 3 squares. Draw the possible moves he can make to reach the path.\n\nIf in doubt, go back to the theory page." = "Lembre que o cavalo faz o movimento em L, e portanto, anda 3 casas. Desnhe os possíveis movimentos que ele pode fazer para chegar no caminho.\n\nCaso sinta dúvida, volte na página de teoria.";
+
+"The knight always moves 3 spaces, so the number of spaces he moves is always a multiple of 3." = "O cavalo sempre anda 3 casa, logo o número de casa que ele anda é sempre um múltiplo de 3.";
+
+
+"What is the minimum number of squares the horse will need to walk given its standard movement to reach the marked area?" = "Qual o número mínimo de quadrados o cavalo precisará andar dado o seu movimento padrão para chegar na área marcada?";
+
+"What are rectangles?" = "O que são retângulos?";
+
+
+"Rectangles" =
+"Retângulos";
+
+
+"A rectangle is a geometric figure with four equal sides and four equal angles. The bottom sides are called the base and the side the height." = "Um retângulo é uma figura geométrica com quatro lados e quatro ângulos iguais. Os lados da parte de baixo são chamados de base e o da parte lateral de altura.";
+
+
+"Using the above definition, we can conclude that a square is a type of rectangle." = "Usando a definição acima, podemos concluir que um quadrado é um tipo de retângulo.";
+
+
+"One important property we can exploit is the perimeter, which we define as the sum of all sides. In the case above, 2 times the green side + 2 times the orange side." = "Uma propriedade importante que podemos explorar é o perímetro, que definimos como a soma de todos os lados. No caso acima, 2 vezes o lado verde + 2 vezes o lado laranja.";
+
+
+"Chess is a board game that uses logical reasoning and geometry. The board is composed of squares of the same size interspersed between black and white" = "O xadrez é um jogo de tabuleiro que utiliza do raciocínio lógico e geometria. O tabuleiro é composto por quadrados de mesmo tamanho intercalados entre preto e branco";
+
+
+"The knight always moves in an L, that is, two squares (horizontal and vertical) and the next square that makes a right angle. \n\nAnother curiosity is that the knight always ends up in a square with the opposite color to the initial one. " = "O cavalo sempre faz movimentos em L, ou seja, duas casa (horizontais e verticais) e a próxima casa que faz um ângulo reto. \n\nOutra curiosidade é que o cavalo sempre termina em uma casa com a cor oposta a inicial.";
+
+
+
+"The area of ​​any rectangle is base x height, so you need to find out how much the base and height are worth, which the figure tells you in a non-direct way.\n\nIf in doubt, go back to the theory page." = "A área de qualquer retângulo é base x altura, logo você precisa descobrir qauanto vale a base e a altura, o que a figura informa de uma maneira não direta.\n\nCaso sinta dúvida, volte na página de teoria.";
+
+"Always when calculating an area, we must add all the horizontal parts and all the vertical parts, so we can multiply the base by the height." = "Sempre ao calcular uma área, devemos somar todas as partes horizontais e todas as partes verticais, assim podemos multiplicar a base pela altura.";
+
+
+"What is the area of ​​the figure above?" = "Qual a área da figura acima?";
+
+
+"What is area?" = "O que é área?";
+
+"Areas" = "Áreas";
+
+"Assuming the green square above has 1 unit..." = "Supondo que o quadrado verde acima tenha 1 unidade...";
+
+"Area can be defined as the space within a figure in two dimensions." = "A área pode ser definida como o espaço dentro de uma figura em duas dimensões.";
+
+"So the area of ​​the larger rectangle equals 4 squares." = "Logo, a área do retângulo maior equivale a 4 quadrados.";
+
+"Now imagine several smaller squares inside our rectangle, the area will be the sum of all of them. But how can we generalize this?\n\nRealize that a way to account for the number of squares can be by multiplying the squares horizontally and multiplying by the of the vertical.\n\nSo the area of ​​a rectangle can be defined as base*height." = "Agora imagine vários quadrados menores dentro do nosso retângulo, a área será a soma de todos eles. Mas como podemos generalizar isso?\n\nPerceba que uma maneira de contabilizar a quantidade de quadrados pode ser multiplicando os quadrados na horizontal e multiplicar por os da vertical.\n\nLogo a área de um retângulo pode ser definida como base*altura.";
+
+
+"Football fields can be seen as two-dimensional figures, and therefore you can calculate the area.\n\nThe GPS on the players' vest uses the measurements of the field and the GPS distance to calculate how many KM the player has run." =
+"Os campos de futebol podem ser visto como figuras bidimensionais, e portando pode calcular a área.\n\nO GPS no colete dos jogadores utiliza-se das medidas do campo e a distância do gps para calcular quantos KM o jogador correu.";
+
+"The circumference has 360 degrees and its half 180, so you need to find the half of half a circle.\n\nIf you feel in doubt, go back to the theory page." = "A circunferência tem 360 graus e sua metade 180, logo você precisa achar a metade de meia circunferência.\n\nCaso sinta dúvida, volte na página de teoria.";
+
+
+"Given that the circumference is 360°, half is 180° and half of that is 90°." = "Dado que a circunferência tem 360°, metade é 180° e metade disso é 90°.";
+
+
+"Given the properties of the circle, what is the angle above?" = "Dado as propriedades da circunferência, quanto vale o ângulo acima?";
+
+
+"What is circumference?" = "O que é circunferência?";
+
+
+"Circumference" = "Circunfêrencia";
+
+"A circle is a figure where all points have the same distance from a common point." = "Circunferência é uma figura onde todos os pontos tem a mesma distância de um ponto em comum.";
+
+"What do you mean? All points on the circle have the same distance from the central point, as shown in the image above" = "Como assim? Todos os pontos da circunferência tem a mesma distância do ponto central, como mostra a imagem acima";
+
+ "An important property of circumference is that it has 360°.\n\nWhich allows us to reach the conclusion that half a circle has 180°, which is half of 360°." =  "Uma propriedade importante da circunferência é que ela tem 360°.\n\nO que nos permite chegar a conclusão de que meia circunferência tem 180°, que é a metade de 360°.";
+
+"The hard drives of current computers are divided into several circles called tracks, where the mechanical arm of the disk searches for the track to store or retrieve a value that is stored. This arm uses some calculations on the circumference to find the search track ." = "Os disco rígidos dos computadores atuais são divididos em diversos círculos chamados de trilhas, onde o braço mecânico do disco busca a trilha para armazenar ou pegar um valor que está armazenado. Tal braço utiliza de alguns cálculos sobre a circunferência para achar a trilha de busca.";
+
+
+"Triangle wizard" = "Mágico do triângulo";
+
+"Chess boy" = "Garoto Xadrez";
+
+"Area specialist" = "Especialista em área";
+
+"Rounded magic" = "Circulante";
+
+"Triangles Wizard is a trophy that can only be earned by completing the Triangles module. Learning about it is of paramount importance, as your knowledge applies in many areas of the real world." = "Mago dos triângulos é um troféu que ganha apenas se completar o módulo de triângulos. Aprender sobre isso é de suma importância, já que seu conhecimento se aplica em diversas áreas do mundo real.";
+
+
+"Chess Boy is a trophy that you can only win if you complete the rectangles module. Rectangle are in several areas of our lives, such as in buildings, in board games, in everyday calculations and etc. Learning these concepts will make you have a different worldview." = "Garoto do xadrez é um troféu que ganha apenas se completar o módulo de retângulos. Retângulo estão em diversas áreas das nossas vidas, como em construções, em jogos de tabuleiros, em cálculos cotidianos e etc. Aprender esses conceitos vão fazer você ter uma visão de mundo diferente.";
+
+"Area Specialist is a trophy that can only be earned if you complete the Triangles module. Constructions and buildings require several area calculations in which engineers have to be sharp. Such discipline is the most commonplace in everyday life." = "Especialista em áreas é um troféu que ganha apenas se completar o módulo de triângulos. Construções e edifícios necessitam te diversos cálculos de áreas no qual os engenheiros tem que estar afiados. Tal disciplina é a mais corriqueira no dia a dia.";
+
+"Rounded magic is a trophy that you only earn if you complete the triangles module. Circumferences are extremely important elements in several areas, for example astronomy. Understanding these figures allows us to understand the language with which the world communicates." = "Circulante é um troféu que ganha apenas se completar o módulo de triângulos.  Circunferências são elementos extremamente importantes em diversas áreas, por exemplo a astronomia. Entender essas figuras nos permite compreender a linguagem com que o mundo se comunica.";
+
+"Trophy area" = "Área de troféus";
+
+"In this graph there is a statistic related to the number of errors in each module, so the lower the value of the bar, the more efficient you were in the module." = "Nesse gráfico existe uma estatística relacionada ao número de erros em cada módulo, então quanto menor o valor da barra, mais eficiente você foi no módulo.";
+
+"Chart Area" = "Área de gráficos";

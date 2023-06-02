@@ -1,0 +1,26 @@
+<svg width="303" height="237" viewBox="0 0 303 237" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M148.643 19.7336L143.456 15.4269" stroke="black" stroke-width="3"/>
+<path d="M161.506 2L284.043 177.562H38.969L161.506 2Z" fill="#E0B95B"/>
+<mask id="mask0_145_24997" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="38" y="2" width="247" height="176">
+<path d="M161.506 2L284.043 177.562H38.969L161.506 2Z" fill="#E0B95B"/>
+</mask>
+<g mask="url(#mask0_145_24997)">
+<line y1="-1.5" x2="376.35" y2="-1.5" transform="matrix(0.999996 -0.00271351 0.00181988 0.999998 6.31946 60.782)" stroke="black" stroke-width="3"/>
+<line y1="-1.5" x2="376.35" y2="-1.5" transform="matrix(0.999996 -0.00271351 0.00181988 0.999998 6.73444 138.817)" stroke="black" stroke-width="3"/>
+<line y1="-1.5" x2="376.35" y2="-1.5" transform="matrix(0.999996 -0.00271351 0.00181988 0.999998 6.31946 21.7681)" stroke="black" stroke-width="3"/>
+<line y1="-1.5" x2="376.35" y2="-1.5" transform="matrix(0.999996 -0.00271351 0.00181988 0.999998 6.73444 99.8036)" stroke="black" stroke-width="3"/>
+<line y1="-1.5" x2="376.35" y2="-1.5" transform="matrix(0.999996 -0.00271351 0.00181988 0.999998 7.14941 177.839)" stroke="black" stroke-width="3"/>
+</g>
+<path d="M3 123.855L161.506 2L39.3071 176.549L3 123.855Z" fill="url(#paint0_linear_145_24997)" stroke="black" stroke-width="3"/>
+<path d="M67.5228 137.028L32.2531 101.308" stroke="black" stroke-width="3"/>
+<path d="M94.4938 97.7612L65.6556 75.7209" stroke="black" stroke-width="3"/>
+<path d="M121.465 59.0007L102.17 47.3472" stroke="black" stroke-width="3"/>
+<path d="M283.29 176.802L161.506 2.25336" stroke="black" stroke-width="3"/>
+<path d="M149.058 19.4803L143.871 15.4269" stroke="black" stroke-width="3"/>
+<defs>
+<linearGradient id="paint0_linear_145_24997" x1="82.2531" y1="2" x2="82.2531" y2="176.549" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0B95B"/>
+<stop offset="1" stop-color="#836B33"/>
+</linearGradient>
+</defs>
+</svg>

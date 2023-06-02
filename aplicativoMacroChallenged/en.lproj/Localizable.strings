@@ -1,0 +1,169 @@
+/* 
+  Localizable.strings
+  aplicativoMacroChallenged
+
+  Created by Kaua Miguel on 24/05/23.
+  
+*/
+"Remember that the sum of all interior angles is 180 degrees.\n\nIf in doubt, go back to the theory page." = "Remember that the sum of all interior angles is 180 degrees.\n\nIf in doubt, go back to the theory page.";
+
+
+"The value you found of 7.2° was the same as Erastothenes arrived at, and with that he could prove that the earth had a radius of approximately 40,000 KM, but that is a subject for the next module..." = "The value you found of 7.2° was the same as Erastothenes arrived at, and with that he could prove that the earth had a radius of approximately 40,000 KM, but that is a subject for the next module...";
+
+
+
+"Assuming that the blue-painted angles of the triangle above both measure 86.4 degrees, what is the value of the green angle?" =
+"Assuming that the blue-painted angles of the triangle above both measure 86.4 degrees, what is the value of the green angle?";
+
+"Why 180 degrees?"  = "Why 180 degrees?" ;
+
+"Angles in Triangle" = "Angles in Triangle";
+
+
+"Let's take this pretty triangle as a base." = "Let's take this pretty triangle as a base.";
+
+
+"Regardless of the way, we can divide the triangle into 3 parts, as long as the angles remain intact..." =
+"Regardless of the way, we can divide the triangle into 3 parts, as long as the angles remain intact...";
+
+"If we add the angles side by side, we can see that they form half of a circle, which is 180 degrees." = "If we add the angles side by side, we can see that they form half of a circle, which is 180 degrees.";
+
+"A fellow named Eratosthenes of ancient Greece noticed that when the light was exactly on top of a wooden stake, it cast no shadow..." = "A fellow named Eratosthenes of ancient Greece noticed that when the light was exactly on top of a wooden stake, it cast no shadow...";
+
+"With the most advanced locomotion tools of the time (On foot), Erastóthenes went to check if the same phenomenon happened at the same time in another city, and he realized that the stakes were in shadow, which implies the curvature of the earth. 🤯 \n\nLet's see that, just using knowledge about angles in a triangle, a sage from 250 BC was able to reach extremely profound conclusions, and without the use of google." = "With the most advanced locomotion tools of the time (On foot), Erastóthenes went to check if the same phenomenon happened at the same time in another city, and he realized that the stakes were in shadow, which implies the curvature of the earth. 🤯 \n\nLet's see that, just using knowledge about angles in a triangle, a sage from 250 BC was able to reach extremely profound conclusions, and without the use of google.";
+
+"Back" = "Back";
+
+"Continue" = "Continue";
+
+"Exercise" = "Exercise";
+
+"What's aplication?" = "What's aplication?";
+
+"Got it !" = "Got it !";
+
+" Back to menu" = " Back to menu";
+
+"Tips\n" = "Tips\n";
+
+"CONGRATULATIONS!" = "CONGRATULATIONS!";
+
+"You understood the principles." = "You understood the principles";
+
+"Close" = "Close";
+
+"Remember that the knight moves in an L, and therefore moves 3 squares. Draw the possible moves he can make to reach the path.\n\nIf in doubt, go back to the theory page." = "Remember that the knight moves in an L, and therefore moves 3 squares. Draw the possible moves he can make to reach the path.\n\nIf in doubt, go back to the theory page.";
+
+"The knight always moves 3 spaces, so the number of spaces he moves is always a multiple of 3." = "The knight always moves 3 spaces, so the number of spaces he moves is always a multiple of 3.";
+
+
+"What is the minimum number of squares the horse will need to walk given its standard movement to reach the marked area?" =
+"What is the minimum number of squares the horse will need to walk given its standard movement to reach the marked area?";
+
+"What are rectangles?" = "What are rectangles?";
+
+
+"Rectangles" =
+"Rectangles";
+
+
+"A rectangle is a geometric figure with four equal sides and four equal angles. The bottom sides are called the base and the side the height." =
+"A rectangle is a geometric figure with four equal sides and four equal angles. The bottom sides are called the base and the side the height.";
+
+
+"Using the above definition, we can conclude that a square is a type of rectangle." =
+"Using the above definition, we can conclude that a square is a type of rectangle.";
+
+
+
+"One important property we can exploit is the perimeter, which we define as the sum of all sides. In the case above, 2 times the green side + 2 times the orange side." =
+"One important property we can exploit is the perimeter, which we define as the sum of all sides. In the case above, 2 times the green side + 2 times the orange side.";
+
+
+"Chess is a board game that uses logical reasoning and geometry. The board is composed of squares of the same size interspersed between black and white" =
+"Chess is a board game that uses logical reasoning and geometry. The board is composed of squares of the same size interspersed between black and white";
+
+
+"The knight always moves in an L, that is, two squares (horizontal and vertical) and the next square that makes a right angle. \n\nAnother curiosity is that the knight always ends up in a square with the opposite color to the initial one. " =
+"The knight always moves in an L, that is, two squares (horizontal and vertical) and the next square that makes a right angle. \n\nAnother curiosity is that the knight always ends up in a square with the opposite color to the initial one. ";
+
+
+"The area of ​​any rectangle is base x height, so you need to find out how much the base and height are worth, which the figure tells you in a non-direct way.\n\nIf in doubt, go back to the theory page." =
+"The area of ​​any rectangle is base x height, so you need to find out how much the base and height are worth, which the figure tells you in a non-direct way.\n\nIf in doubt, go back to the theory page.";
+
+
+"Always when calculating an area, we must add all the horizontal parts and all the vertical parts, so we can multiply the base by the height." = "Always when calculating an area, we must add all the horizontal parts and all the vertical parts, so we can multiply the base by the height.";
+
+
+"What is the area of ​​the figure above?" =
+"What is the area of ​​the figure above?";
+
+
+"What is area?" = "What is area?";
+
+"Areas" = "Areas";
+
+"Assuming the green square above has 1 unit..." = "Assuming the green square above has 1 unit...";
+
+"Area can be defined as the space within a figure in two dimensions." =
+"Area can be defined as the space within a figure in two dimensions.";
+
+"So the area of ​​the larger rectangle equals 4 squares." = "So the area of ​​the larger rectangle equals 4 squares.";
+
+"Now imagine several smaller squares inside our rectangle, the area will be the sum of all of them. But how can we generalize this?\n\nRealize that a way to account for the number of squares can be by multiplying the squares horizontally and multiplying by the of the vertical.\n\nSo the area of ​​a rectangle can be defined as base*height." = "Now imagine several smaller squares inside our rectangle, the area will be the sum of all of them. But how can we generalize this?\n\nRealize that a way to account for the number of squares can be by multiplying the squares horizontally and multiplying by the of the vertical.\n\nSo the area of ​​a rectangle can be defined as base*height.";
+
+
+"Football fields can be seen as two-dimensional figures, and therefore you can calculate the area.\n\nThe GPS on the players' vest uses the measurements of the field and the GPS distance to calculate how many KM the player has run." =
+"Football fields can be seen as two-dimensional figures, and therefore you can calculate the area.\n\nThe GPS on the players' vest uses the measurements of the field and the GPS distance to calculate how many KM the player has run.";
+
+
+"The circumference has 360 degrees and its half 180, so you need to find the half of half a circle.\n\nIf you feel in doubt, go back to the theory page." = "The circumference has 360 degrees and its half 180, so you need to find the half of half a circle.\n\nIf you feel in doubt, go back to the theory page.";
+
+
+"Given that the circumference is 360°, half is 180° and half of that is 90°." =
+"Given that the circumference is 360°, half is 180° and half of that is 90°.";
+
+
+"Given the properties of the circle, what is the angle above?" =
+"Given the properties of the circle, what is the angle above?";
+
+
+"What is circumference?" =
+"What is circumference?";
+
+"Circumference" =
+"Circumference";
+
+"A circle is a figure where all points have the same distance from a common point." = "A circle is a figure where all points have the same distance from a common point." ;
+
+"What do you mean? All points on the circle have the same distance from the central point, as shown in the image above" = "What do you mean? All points on the circle have the same distance from the central point, as shown in the image above";
+
+"An important property of circumference is that it has 360°.\n\nWhich allows us to reach the conclusion that half a circle has 180°, which is half of 360°." =  "An important property of circumference is that it has 360°.\n\nWhich allows us to reach the conclusion that half a circle has 180°, which is half of 360°.";
+
+"The hard drives of current computers are divided into several circles called tracks, where the mechanical arm of the disk searches for the track to store or retrieve a value that is stored. This arm uses some calculations on the circumference to find the search track ." = "The hard drives of current computers are divided into several circles called tracks, where the mechanical arm of the disk searches for the track to store or retrieve a value that is stored. This arm uses some calculations on the circumference to find the search track .";
+
+"Triangle wizard" = "Triangle wizard";
+
+"Chess boy" = "Chess boy";
+
+"Area specialist" = "Area specialist";
+
+"Rounded magic" = "Rounded magic";
+
+"Triangles Wizard is a trophy that can only be earned by completing the Triangles module. Learning about it is of paramount importance, as your knowledge applies in many areas of the real world." = "Triangles Wizard is a trophy that can only be earned by completing the Triangles module. Learning about it is of paramount importance, as your knowledge applies in many areas of the real world.";
+
+"Chess Boy is a trophy that you can only win if you complete the rectangles module. Rectangle are in several areas of our lives, such as in buildings, in board games, in everyday calculations and etc. Learning these concepts will make you have a different worldview." = "Chess Boy is a trophy that you can only win if you complete the rectangles module. Rectangle are in several areas of our lives, such as in buildings, in board games, in everyday calculations and etc. Learning these concepts will make you have a different worldview.";
+
+
+"
+Area Specialist is a trophy that can only be earned if you complete the Triangles module. Constructions and buildings require several area calculations in which engineers have to be sharp. Such discipline is the most commonplace in everyday life." = "
+Area Specialist is a trophy that can only be earned if you complete the Triangles module. Constructions and buildings require several area calculations in which engineers have to be sharp. Such discipline is the most commonplace in everyday life.";
+
+
+"Rounded magic  is a trophy that you only earn if you complete the triangles module. Circumferences are extremely important elements in several areas, for example astronomy. Understanding these figures allows us to understand the language with which the world communicates." = "Rounded magic  is a trophy that you only earn if you complete the triangles module. Circumferences are extremely important elements in several areas, for example astronomy. Understanding these figures allows us to understand the language with which the world communicates.";
+
+"Trophy area" = "Trophy area";
+
+"In this graph there is a statistic related to the number of errors in each module, so the lower the value of the bar, the more efficient you were in the module." = "In this graph there is a statistic related to the number of errors in each module, so the lower the value of the bar, the more efficient you were in the module.";
+
+"Chart Area" = "Chart Area";
